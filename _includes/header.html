@@ -94,6 +94,12 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+
+              <li class="nav-item {% if page.title == p.title %}active{% endif %}">
+                <a class="nav-link" href="/assets/pdf/zebo_resume.pdf" target="_blank">CV
+                </a>
+              </li>
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

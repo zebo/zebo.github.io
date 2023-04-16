@@ -1,6 +1,17 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"IEEE COMST":
+  color: "#00369f"
+
+"IEEE TQE":
+  color: "#00369f"
+
+"IEEE IoT":
   color: "#00369f"
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"Patent":
+  color: "#000"
+
+"Springer":
+  color: "#2c7eb8"
