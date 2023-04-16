@@ -1,4 +1,12 @@
+{% assign years = "2023, 2022, 2021, 2020, 2018" | split: ", " %}
 
           <div class="publications">
-            {% bibliography -f papers -q @*[selected=true]* %}
+            {%- for y in years %}
+              {% bibliography -f papers -q @*[year={{y}} && abbr!=Patent]* %}
+            {% endfor %}
+
+
+            {% comment %}
+            {% bibliography -f papers -q @*[selected=true]* | reverse %}
+            {% endcomment %}
           </div>
