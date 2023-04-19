@@ -62,6 +62,9 @@ html[data-theme=dark] .repo-img-light {
 html[data-theme=dark] .repo-img-dark {
   display: block;
 }
+html[data-theme=dark] .profile img {
+  opacity: 0.7;
+}
 
 /******************************************************************************
  * Content
