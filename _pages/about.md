@@ -9,8 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Washington University in</p>
-    <p>St. Louis, MO 63130</p>
+    <p style="text-align:center"><a href="/assets/pdf/zebo_resume.pdf" target="_blank">CV</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -23,3 +22,4 @@ I am a Ph.D. student in Computer Science at Washington University in St. Louis, 
 Prior to pursuing my Ph.D., I worked as a Software Engineer at companies such as Tencent, Inc., Baidu, Inc., and DJI, Inc. between 2011 and 2017. I received my bachelor degree in computer engineering from Guangdong University of Foreign Studies, Guangzhou, China in 2012 and my master degree in computer engineering from Waseda University, Tokyo, Japan in 2019.
 
 [Google Scholar](https://scholar.google.com/citations?user=gba_8H8AAAAJ)
+
