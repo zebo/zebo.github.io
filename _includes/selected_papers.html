@@ -2,7 +2,7 @@
 
           <div class="publications">
             {%- for y in years %}
-              {% bibliography -f papers -q @*[year={{y}} && abbr!=Patent]* %}
+              {% bibliography -f papers -q @*[year={{y}} && selected=true]* %}
             {% endfor %}
 
 
