@@ -6,7 +6,7 @@ subtitle: <a href='https://cse.wustl.edu/'>Washington University in St. Louis</a
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p style="text-align:center"><a href="/assets/pdf/zebo_resume.pdf" target="_blank">CV</a></p>
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in Computer Science at Washington University in St. Louis, advised by Dr. [Raj Jain](https://www.cse.wustl.edu/~jain/). My research interests include quantum computing, network and system security, blockchains, machine learning, and internet of things.
+I am a Ph.D. student in Computer Science at Washington University in St. Louis, advised by Dr. [Raj Jain](https://www.cse.wustl.edu/~jain/). My research interests include quantum computing, quantum networks, network and system security, blockchains, machine learning, and internet of things.
 
 Prior to pursuing my Ph.D., I worked as a Software Engineer at companies such as Tencent, Inc., Baidu, Inc., and DJI, Inc. between 2011 and 2017. I received my bachelor degree in computer engineering from Guangdong University of Foreign Studies, Guangzhou, China in 2012 and my master degree in computer engineering from Waseda University, Tokyo, Japan in 2019.
 
