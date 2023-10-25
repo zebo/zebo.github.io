@@ -24,7 +24,7 @@
     <!-- Fonts & Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700%7CRoboto+Slab:100,300,400,500,700%7CMaterial+Icons">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
 
     <!-- Code Syntax Highlighting -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
@@ -127,7 +127,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/prof_pic.png" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="prof_pic.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/prof_pic.jpg" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="prof_pic.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
@@ -140,7 +140,7 @@
           </div>
 
           <div class="clearfix" style="margin-bottom: 60px">
-            <p>I am a Ph.D. student in Computer Science at Washington University in St. Louis, advised by Dr. <a href="https://www.cse.wustl.edu/~jain/" rel="external nofollow noopener" target="_blank">Raj Jain</a>. My research interests include quantum computing, network and system security, blockchains, machine learning, and internet of things.</p>
+            <p>I am a Ph.D. student in Computer Science at Washington University in St. Louis, advised by Dr. <a href="https://www.cse.wustl.edu/~jain/" rel="external nofollow noopener" target="_blank">Raj Jain</a>. My research interests include quantum computing, quantum networks, network and system security, blockchains, machine learning, and internet of things.</p>
 
 <p>Prior to pursuing my Ph.D., I worked as a Software Engineer at companies such as Tencent, Inc., Baidu, Inc., and DJI, Inc. between 2011 and 2017. I received my bachelor degree in computer engineering from Guangdong University of Foreign Studies, Guangzhou, China in 2012 and my master degree in computer engineering from Waseda University, Tokyo, Japan in 2019.</p>
 
@@ -156,16 +156,68 @@
           
 
           <!-- Selected papers -->
-          <h2><a href="/publications/" style="color: inherit;">Publications</a></h2>
+          <h2><a href="/publications/" style="color: inherit;">Selected publications</a></h2>
 
           <div class="publications">
-              <ol class="bibliography"><li>
+              <ol class="bibliography">
+<li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#00369f"><a href="">IEEE COMST</a></abbr></div>
+        <!--div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#00369f"><a href="">IEEE COMST</a></abbr></div-->
 
         <!-- Entry bib key -->
-        <div id="yang2023survey" class="col-sm-8">
+        <div id="10288193" class="col-sm-12">
+        <!-- Title -->
+        <div class="title">A Survey and Comparison of Post-Quantum and Quantum Blockchains</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Zebo Yang</em>, Haneen Alfauri, Behrooz Farkiani, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'Raj Jain, Roberto Di Pietro, Aiman Erbad' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>IEEE Communications Surveys &amp; Tutorials</em>, 2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <!--div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#00369f"><a href="">IEEE COMST</a></abbr></div-->
+
+        <!-- Entry bib key -->
+        <div id="yang2023survey" class="col-sm-12">
         <!-- Title -->
         <div class="title">A Survey of Important Issues in Quantum Computing and Communications</div>
         <!-- Author -->
@@ -196,16 +248,17 @@
           
         </div>
       </div>
-</li></ol>
+</li>
+</ol>
             
               <ol class="bibliography">
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#00369f"><a href="">IEEE TQE</a></abbr></div>
+        <!--div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#00369f"><a href="">IEEE TQE</a></abbr></div-->
 
         <!-- Entry bib key -->
-        <div id="yang2022decentralization" class="col-sm-8">
+        <div id="yang2022decentralization" class="col-sm-12">
         <!-- Title -->
         <div class="title">Decentralization Using Quantum Blockchain: A Theoretical Analysis</div>
         <!-- Author -->
@@ -253,10 +306,10 @@
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge">JOItmC</abbr></div>
+        <!--div class="col-sm-2 abbr"><abbr class="badge">JOItmC</abbr></div-->
 
         <!-- Entry bib key -->
-        <div id="renduchintala2022survey" class="col-sm-8">
+        <div id="renduchintala2022survey" class="col-sm-12">
         <!-- Title -->
         <div class="title">A Survey of Blockchain Applications in the FinTech Sector</div>
         <!-- Author -->
@@ -307,10 +360,10 @@
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#00369f"><a href="">IEEE IoT</a></abbr></div>
+        <!--div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#00369f"><a href="">IEEE IoT</a></abbr></div-->
 
         <!-- Entry bib key -->
-        <div id="zolanvari2021trust" class="col-sm-8">
+        <div id="zolanvari2021trust" class="col-sm-12">
         <!-- Title -->
         <div class="title">Trust xai: Model-agnostic explanations for ai with a case study on iiot security</div>
         <!-- Author -->
@@ -358,10 +411,10 @@
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge">WCMC</abbr></div>
+        <!--div class="col-sm-2 abbr"><abbr class="badge">WCMC</abbr></div-->
 
         <!-- Entry bib key -->
-        <div id="yang2021factors" class="col-sm-8">
+        <div id="yang2021factors" class="col-sm-12">
         <!-- Title -->
         <div class="title">Factors Affecting the Performance of Sub-1 GHz IoT Wireless Networks</div>
         <!-- Author -->
@@ -408,65 +461,15 @@
 </li>
 </ol>
             
-              <ol class="bibliography"><li>
-<!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge" style="background-color:#2c7eb8"><a href="">Springer</a></abbr></div>
-
-        <!-- Entry bib key -->
-        <div id="yang2020real" class="col-sm-8">
-        <!-- Title -->
-        <div class="title">Real world third-person with multiple point-of-views for immersive mixed reality</div>
-        <!-- Author -->
-        <div class="author">
-        
-
-        <em>Zebo Yang</em>, Mingshu Zhang, Taili Zhang, and
-          <span class="more-authors" title="click to view 2 more authors" onclick="
-                var element = $(this);
-                element.attr('title', '');
-                var more_authors_text = element.text() == '2 more authors' ? 'Linhao Fu, Tatuso Nakajima' : '2 more authors';
-                var cursorPosition = 0;
-                var textAdder = setInterval(function(){
-                  element.text(more_authors_text.substring(0, cursorPosition + 1));
-                  if (++cursorPosition == more_authors_text.length){
-                    clearInterval(textAdder);
-                  }
-              }, '10');
-              ">2 more authors</span>
-</div>
-
-        <!-- Journal/Book title and date -->
-        
-        
-        <div class="periodical">
-          <em>In Society with Future: Smart and Liveable Cities: First EAI International Conference, SC4Life 2019, Braga, Portugal, December 4-6, 2019, Proceedings 1</em>, 2020
-        </div>
-        <div class="periodical">
-          
-        </div>
-
-          <!-- Links/Buttons -->
-          <div class="links">
-          </div>
-          
-          <div class="badges">
-            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
-              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
-          </div>
-
-          
-        </div>
-      </div>
-</li></ol>
+              <ol class="bibliography"></ol>
             
               <ol class="bibliography"><li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge">MDPI</abbr></div>
+        <!--div class="col-sm-2 abbr"><abbr class="badge">MDPI</abbr></div-->
 
         <!-- Entry bib key -->
-        <div id="yang2018connecting" class="col-sm-8">
+        <div id="yang2018connecting" class="col-sm-12">
         <!-- Title -->
         <div class="title">Connecting smart objects in IoT architectures by screen remote monitoring and control</div>
         <!-- Author -->
