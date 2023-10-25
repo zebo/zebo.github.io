@@ -6,7 +6,7 @@ subtitle: <a href='https://cse.wustl.edu/'>Washington University in St. Louis</a
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p style="text-align:center"><a href="/assets/pdf/zebo_resume.pdf" target="_blank">CV</a></p>
