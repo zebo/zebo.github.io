@@ -1,0 +1,11 @@
+{% assign years = "2024, 2023, 2022, 2021, 2020, 2018" | split: ", " %}
+
+<div class="publications">
+  {%- for y in years %}
+    {% bibliography -f papers -q @*[year={{y}} && selected=true]* %}
+  {% endfor %}
+
+  {% comment %}
+  {% bibliography --group_by none --query @*[selected=true]* | reverse %}
+  {% endcomment %}
+</div>

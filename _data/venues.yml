@@ -1,17 +1,17 @@
-"IEEE COMST":
+"IEEE IoT":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907
   color: "#00369f"
 
 "IEEE TQE":
-  color: "#00369f"
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8924785
 
-"IEEE IoT":
-  color: "#00369f"
+"IEEE COMST":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739
+  color: "#009f36"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"JOItmC":
+  url: https://www.mdpi.com/journal/JOItmC
+  color: "#9d8604"
 
-"Patent":
-  color: "#000"
-
-"Springer":
-  color: "#2c7eb8"
+"AIP":
+  url: https://pubs.aip.org/avs/aqs/article/6/1/013801/3022970/Asynchronous-entanglement-routing-for-the-quantum
