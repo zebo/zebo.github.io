@@ -6,7 +6,7 @@ subtitle: <a href='https://cse.wustl.edu/'>Washington University in St. Louis</a
 
 profile:
   align: right
-  image: prof_pic.JPG
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Washington University in St. Louis</p>
