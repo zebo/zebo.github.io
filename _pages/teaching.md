@@ -7,17 +7,17 @@ nav: true
 nav_order: 6
 ---
 
-### CSE570S: Recent Advances in Networking (Fall 2021 and Fall 2023)
-	- Assisted Instructor/Teaching Assistant
-
-Instructed by Prof. [Raj Jain](https://www.cse.wustl.edu/~jain/), this course covers the latest advances in networking. The topics include Networking Trends, Data Center Network Topologies, Data Center Ethernet, Server Virtualization, Storage Virtualization, Carrier Ethernet, Application Delivery Networking, Virtual Bridging, Big Data, Networking Issues for Big Data, LAN Extension and Virtualization using Layer 3 Protocols, Multi-Tenant Isolation and Network Virtualization in Cloud Data Centers, OpenFlow, OpenFlow Controllers and Tools, Software Defined Networking (SDN), Network Function Virtualization (NFV), Internet of Things (IoT), Networking Protocols for IoT, Blockchains, and Quantum Communications. Students also do a project/survey involving application of these topics. [Course Website](https://www.cse.wustl.edu/~jain/cse570-23/index.html) 
-
-<br>
-
 ### CSE574S: Recent Advances in Wireless and Mobile Networking (Fall 2024, Fall 2022 and Fall 2020)
 	- Assisted Instructor/Teaching Assistant
 
 Instructed by Prof. [Raj Jain](https://www.cse.wustl.edu/~jain/), this course provides a comprehensive treatment of wireless data and telecommunication networks. Topics include recent trends in wireless and mobile networking, wireless coding and modulation, wireless signal propagation, IEEE 802.11a/b/g/n/ac wireless local area networks, 60 GHz millimeter wave gigabit wireless networks, vehicular wireless networks, white spaces, IEEE 802.22 regional area networks, Bluetooth and Bluetooth Smart, wireless personal area networks, wireless protocols for Internet of Things, cellular networks: 1G/2G/3G, LTE, LTE-Advanced, LTE-Advanced Pro, and 5G. [Course Website](https://www.cse.wustl.edu/~jain/cse574-20/index.html) 
+
+<br>
+
+### CSE570S: Recent Advances in Networking (Fall 2023 and Fall 2021)
+	- Assisted Instructor/Teaching Assistant
+
+Instructed by Prof. [Raj Jain](https://www.cse.wustl.edu/~jain/), this course covers the latest advances in networking. The topics include Networking Trends, Data Center Network Topologies, Data Center Ethernet, Server Virtualization, Storage Virtualization, Carrier Ethernet, Application Delivery Networking, Virtual Bridging, Big Data, Networking Issues for Big Data, LAN Extension and Virtualization using Layer 3 Protocols, Multi-Tenant Isolation and Network Virtualization in Cloud Data Centers, OpenFlow, OpenFlow Controllers and Tools, Software Defined Networking (SDN), Network Function Virtualization (NFV), Internet of Things (IoT), Networking Protocols for IoT, Blockchains, and Quantum Communications. Students also do a project/survey involving application of these topics. [Course Website](https://www.cse.wustl.edu/~jain/cse570-23/index.html) 
 
 <br>
 
