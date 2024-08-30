@@ -14,7 +14,7 @@ Instructed by Prof. [Raj Jain](https://www.cse.wustl.edu/~jain/), this course co
 
 <br>
 
-### CSE574S: Recent Advances in Wireless and Mobile Networking (Fall 2022 and Fall 2020)
+### CSE574S: Recent Advances in Wireless and Mobile Networking (Fall 2024, Fall 2022 and Fall 2020)
 	- Assisted Instructor/Teaching Assistant
 
 Instructed by Prof. [Raj Jain](https://www.cse.wustl.edu/~jain/), this course provides a comprehensive treatment of wireless data and telecommunication networks. Topics include recent trends in wireless and mobile networking, wireless coding and modulation, wireless signal propagation, IEEE 802.11a/b/g/n/ac wireless local area networks, 60 GHz millimeter wave gigabit wireless networks, vehicular wireless networks, white spaces, IEEE 802.22 regional area networks, Bluetooth and Bluetooth Smart, wireless personal area networks, wireless protocols for Internet of Things, cellular networks: 1G/2G/3G, LTE, LTE-Advanced, LTE-Advanced Pro, and 5G. [Course Website](https://www.cse.wustl.edu/~jain/cse574-20/index.html) 
