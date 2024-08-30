@@ -13,5 +13,9 @@
   url: https://www.mdpi.com/journal/JOItmC
   color: "#9d8604"
 
+"IEEE COMMAG":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35
+  color: "#00369f"
+
 "AIP":
   url: https://pubs.aip.org/avs/aqs/article/6/1/013801/3022970/Asynchronous-entanglement-routing-for-the-quantum
