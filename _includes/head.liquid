@@ -9,6 +9,8 @@
   integrity="{{ site.third_party_libraries.mdb.integrity.css }}"
   crossorigin="anonymous"
 >
+<link rel="stylesheet" href="{{ '/assets/css/latex.style.min.css' | relative_url | bust_file_cache }}">
+<link rel="stylesheet" href="{{ '/assets/css/overwrite.css' | relative_url | bust_file_cache }}">
 
 <!-- Bootstrap Table -->
 {% if page.pretty_table %}

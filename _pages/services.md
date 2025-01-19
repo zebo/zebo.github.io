@@ -1,0 +1,31 @@
+---
+layout: page
+permalink: /services/
+title: Services
+description: 
+nav: true
+nav_order: 7
+---
+
+### Journal/Conference Reviewer
+
+- IEEE Journal on Selected Areas in Communications (IF 13.8)
+- IEEE Communications Magazine (IF 11.2)
+- IEEE Network (IF 9.3)
+- IEEE Internet of Things Journal (IF 10.6)
+- IEEE/ACM Transactions on Networking (IF 3.7)
+- IEEE Transactions on Vehicular Technology (IF 6.1)
+- Elsevier: Separation and Purification Technology (IF 8.1)
+- Elsevier: Information Processing & Management (IF 7.4)
+- Elsevier: Sustainable Futures (IF 3.3)
+- Springer Nature: Scientific Reports (IF 4.3)
+- Springer: Quantum Machine Intelligence (IF 4.6)
+- Springer: The Journal of Supercomputing
+- Annalen der Physik
+- Academia Quantum
+- ACM Journal on Autonomous Transportation Systems
+- ACM 2021 CHI Conference
+
+### Book Proposal Reviewer
+
+- Springer Nature: Quantum Internet of Things (QIoT)

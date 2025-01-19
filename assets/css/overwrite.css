@@ -1,0 +1,33 @@
+html[data-theme="dark"] a, table.table a{
+  color: #2698ba;
+}
+
+.publications .author{
+  text-align: left;
+  margin: 0;
+}
+
+.publications .abstract{
+  margin: .375rem;
+}
+
+.publications .abstract.hidden{
+  margin: 0;
+}
+
+.publications .badges{
+  margin-top: .375rem;
+  margin-bottom: .375rem;
+}
+
+.publications ol.bibliography li .links a.btn{
+  margin-left: 0;
+}
+
+.publications ol.bibliography li .hidden p{
+  text-align: left;
+}
+
+.profile img {
+    margin-top: .45rem;
+}
