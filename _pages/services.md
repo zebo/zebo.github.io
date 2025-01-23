@@ -14,6 +14,7 @@ nav_order: 7
 - IEEE Network (IF 9.3)
 - IEEE Internet of Things Journal (IF 10.6)
 - IEEE/ACM Transactions on Networking (IF 3.7)
+- IEEE Transactions on Information Forensics & Security (IF 7.23)
 - IEEE Transactions on Vehicular Technology (IF 6.1)
 - Elsevier: Separation and Purification Technology (IF 8.1)
 - Elsevier: Information Processing & Management (IF 7.4)
