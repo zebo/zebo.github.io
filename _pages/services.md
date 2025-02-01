@@ -19,6 +19,7 @@ nav_order: 7
 - Elsevier: Separation and Purification Technology (IF 8.1)
 - Elsevier: Information Processing & Management (IF 7.4)
 - Elsevier: Sustainable Futures (IF 3.3)
+- Elsevier: Informatics in Medicine Unlocked (IF 4.21)
 - Springer Nature: Scientific Reports (IF 4.3)
 - Springer: Quantum Machine Intelligence (IF 4.6)
 - Springer: The Journal of Supercomputing
