@@ -22,6 +22,7 @@ nav_order: 7
 - Springer Nature: Scientific Reports (IF 4.3)
 - Springer: Quantum Machine Intelligence (IF 4.6)
 - Springer: The Journal of Supercomputing
+- IET Quantum Communication
 - Annalen der Physik
 - Academia Quantum
 - ACM Journal on Autonomous Transportation Systems
