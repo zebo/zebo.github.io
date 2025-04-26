@@ -31,6 +31,10 @@ nav_order: 7
 - ACM Journal on Autonomous Transportation Systems
 - ACM 2021 CHI Conference
 
+### Technical Program Committee
+
+- IEEE Quantum Week 2025 (QCE25)
+
 ### Book Proposal Reviewer
 
 - Springer Nature: Quantum Internet of Things (QIoT)
