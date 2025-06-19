@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='http://eecs.fau.edu/'>Florida Atlantic University</a>. <a href="mailto:yangz@fau.edu">yangz@fau.edu</a>.
+subtitle: <a href='http://eecs.fau.edu/'>Florida Atlantic University</a> Email: <a href="mailto:yangz@fau.edu">yangz@fau.edu</a>
 
 profile:
   align: right
