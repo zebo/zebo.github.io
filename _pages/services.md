@@ -9,21 +9,21 @@ nav_order: 7
 
 ### Journal/Conference Reviewer
 
-- IEEE Communications Surveys & Tutorials (IF 34.4)
-- IEEE Journal on Selected Areas in Communications (IF 13.8)
-- IEEE Communications Magazine (IF 11.2)
-- IEEE Network (IF 9.3)
-- IEEE Internet of Things Journal (IF 10.6)
-- IEEE/ACM Transactions on Networking (IF 3.7)
-- IEEE Transactions on Information Forensics & Security (IF 7.23)
-- IEEE Transactions on Dependable and Secure Computing (IF 7)
-- IEEE Transactions on Vehicular Technology (IF 6.1)
-- Elsevier: Separation and Purification Technology (IF 8.1)
-- Elsevier: Information Processing & Management (IF 7.4)
-- Elsevier: Sustainable Futures (IF 3.3)
-- Elsevier: Informatics in Medicine Unlocked (IF 4.21)
-- Springer Nature: Scientific Reports (IF 4.3)
-- Springer: Quantum Machine Intelligence (IF 4.6)
+- IEEE Communications Surveys & Tutorials
+- IEEE Journal on Selected Areas in Communications
+- IEEE Communications Magazine
+- IEEE Network
+- IEEE Internet of Things Journal
+- IEEE/ACM Transactions on Networking
+- IEEE Transactions on Information Forensics & Security
+- IEEE Transactions on Dependable and Secure Computing
+- IEEE Transactions on Vehicular Technology
+- Elsevier: Separation and Purification Technology
+- Elsevier: Information Processing & Management
+- Elsevier: Sustainable Futures
+- Elsevier: Informatics in Medicine Unlocked
+- Springer Nature: Scientific Reports
+- Springer: Quantum Machine Intelligence
 - Springer: The Journal of Supercomputing
 - IET Quantum Communication
 - Annalen der Physik
