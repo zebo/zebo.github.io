@@ -14,10 +14,12 @@ nav_order: 7
 - IEEE Communications Magazine
 - IEEE Network
 - IEEE Internet of Things Journal
-- IEEE/ACM Transactions on Networking
+- IEEE Transactions on Cognitive Communications and Networking
 - IEEE Transactions on Information Forensics & Security
 - IEEE Transactions on Dependable and Secure Computing
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems
 - IEEE Transactions on Vehicular Technology
+- IEEE/ACM Transactions on Networking
 - Elsevier: Separation and Purification Technology
 - Elsevier: Information Processing & Management
 - Elsevier: Sustainable Futures
@@ -34,6 +36,7 @@ nav_order: 7
 ### Technical Program Committee
 
 - IEEE Quantum Week 2025 (QCE25)
+- IEEE CCNC 2026
 
 ### Book Proposal Reviewer
 
