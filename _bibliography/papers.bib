@@ -234,13 +234,6 @@
   abstract={With its significant security potential, the quantum internet is poised to revolutionize technologies like cryptography and communications. Although it boasts enhanced security over traditional networks, the quantum internet still encounters unique security challenges essential for safeguarding its Confidentiality, Integrity, and Availability (CIA). This study explores these challenges by analyzing the vulnerabilities and the corresponding mitigation strategies across different layers of the quantum internet, including physical, link, network, and application layers. We assess the severity of potential attacks, evaluate the expected effectiveness of mitigation strategies, and identify vulnerabilities within diverse network configurations, integrating both classical and quantum approaches. Our research highlights the dynamic nature of these security issues and emphasizes the necessity for adaptive security measures. The findings underline the need for ongoing research into the security dimension of the quantum internet to ensure its robustness, encourage its adoption, and maximize its impact on society.}
 }
 
-@ARTICLE{yang2024quantumresmng,
-  title={Resource Management for Distributed Quantum Computing in Quantum Data Centers}, 
-  author={Yang, Zebo and Tian, Chenliang and and Jain, Raj and Kompella, Ramana and Nejabati, Reza and Hamdi, Mounir and Erbad, Aiman and Shapourian, Hassan},
-  journal={Submitted}, 
-  year={2026}
-}
-
 @INPROCEEDINGS{yang2025scheduling_qce,
   author={Yang, Zebo and Tian, Chenliang and Jain, Raj and Kompella, Ramana and Nejabati, Reza and Hamdi, Mounir and Erbad, Aiman and Shapourian, Hassan},
   booktitle={2025 IEEE International Conference on Quantum Computing and Engineering (QCE)}, 
@@ -249,26 +242,42 @@
   volume={02},
   number={},
   pages={454-455},
-  doi={10.1109/QCE65121.2025.10392}
+  doi={10.1109/QCE65121.2025.10392},
+  html={https://ieeexplore.ieee.org/abstract/document/11249870},
+  abstract={Quantum computing continues to face challenges in scaling both qubit quality and quantity, motivating the shift toward Distributed Quantum Computing (DQC), where multiple interconnected Quantum Processing Units (QPUs) collaboratively solve problems too complex for monolithic systems. In a quantum data center, QPUs distributed across racks can perform remote gate operations by creating entanglement between them, enabling circuit execution through DQC. However, generating end-to-end entangled pairs in a quantum data center often causes congestion and resource contention. To mitigate this, we introduce a resource management framework with efficient schedulers that maximize fidelity-guaranteed throughput while preserving the dependency constraints of sub-circuits derived from the original quantum circuit. We benchmark the scheduling problem using a MixedInteger Linear Programming (MILP) model and then propose a set of lightweight schedulers-Least Resource First (LRF) and its extension, Group LRF (GLRF). These lightweight schedulers provide practical, though less optimal, solutions for handling the high volume of remote gates in DQC workloads. Our initial results on a DCell-based quantum data center show that such heuristics perform well under current DQC conditions, balancing runtime and performance while avoiding the heavy overhead of solvers or machine learning approaches, which often struggle to meet the strict timing demands of short-lived entanglement.}
 }
 
 @inproceedings{tian2025amer,
   title={Asynchronous Routing for Multipartite Entanglement in Quantum Networks},
   author={Tian, Chenliang and Yang, Zebo and Jain, Raj and Kompella, Ramana and Nejabati, Reza and Kaur, Eneet and Erbad, Aiman and Hamdi, Mounir and Abdallah, Mohamed},
-  publisher={IEEE 16th Annual Computing and Communication Workshop and Conference (CCWC)},
-  year={2026}
+  booktitle={IEEE 16th Annual Computing and Communication Workshop and Conference (CCWC)},
+  year={2026},
+  html={https://ieeexplore.ieee.org/abstract/document/11393739},
+  abstract={In quantum networks, one way to communicate is to distribute entanglements through swapping at intermediate nodes. Most existing work primarily aims to create efficient two-party end-to-end entanglement over long distances. However, some scenarios also require remote multipartite entanglement for applications such as quantum secret sharing and multi-party computation. Our previous study improved end-to-end entanglement rates using an asynchronous, tree-based routing scheme that relies solely on local knowledge of entanglement links, conserving unused entanglement and avoiding synchronous operations. This article extends this approach to multipartite entanglements, particularly the three-party Greenberger-Horne-Zeilinger (GHZ) states. It shows that our asynchronous protocol outperforms traditional synchronous methods in entanglement rates, especially as coherence times increase. This approach can also be extended to four-party and larger multipartite GHZ states, highlighting the effectiveness and adaptability of asynchronous routing for multipartite scenarios across various network topologies.}
 }
 
 @article{zhang2025simulating,
   title={Simulating Circuit Layout for Distributed Quantum Computing},
   author={Zhang, Sen and Liu, Yipei and Mark, Brian and Jiang, Weiwen and Yang, Zebo and Yang, Lei},
   journal={Optical Fiber Communications (OFC) Conference 2026},
-  year={2026}
+  year={2026},
+  arxiv={2512.21403},
+  abstract={The proposed framework represents the first tool to compile a quantum circuit across photonic-connected distributed quantum processors. Its design follows a divide-and-conquer paradigm for circuit partitioning, transpilation, and assembly, producing simulable and implementable circuit layouts.}
 }
 
 @article{tian2026radar,
   title={RADAR-Q: Resource-Aware Distributed Asynchronous Routing for Entanglement Distribution in Multi-Tenant Quantum Networks},
   author={Tian, Chenliang and Yang, Zebo and Jain, Raj and Kompella, Ramana and Nejabati, Reza and Kaur, Eneet and Erbad, Aiman and Abdallah, Mohamed and Hamdi, Mounir},
   journal={IEEE 5th International Conference on Innovations in Computing Research (ICR26)},
+  year={2026},
+  arxiv={2603.27570},
+  abstract={Scalable quantum networks must support concurrent entanglement requests, yet existing routing protocols fail when users compete for shared repeater resources, wasting fragile quantum states. This paper presents RADAR-Q, a resource-aware decentralized routing protocol embedding real-time resource contention into path selection. Unlike prior designs requiring global coordination or central anchors, RADAR-Q makes intelligent local decisions balancing path length and fidelity, instantaneous quantum memory availability, and intermediate Bell-State Measurement (BSM) operations. By identifying the Nearest Common Ancestor (NCA) within a DODAG hierarchy, RADAR-Q localizes entanglement swapping close to communicating users - avoiding unnecessary central detours and reducing BSM chain length and decoherence exposure. We evaluate RADAR-Q on grid and random topologies against synchronous and root-centric asynchronous baselines. Results show RADAR-Q achieves aggregate throughputs 2.5x and 7.6x higher than synchronized and root-centric designs, respectively. While baselines suffer catastrophic fidelity collapse below the 0.5 threshold under high load, RADAR-Q consistently maintains end-to-end fidelity above 0.76, ensuring pairs remain usable. Furthermore, RADAR-Q exhibits near-perfect fairness (Jain's Fairness Index 96-98%) and retains over 50% of its ideal throughput under stringent 1.0 ms coherence times. These findings establish contention-aware decentralized routing as a scalable foundation for multi-tenant quantum networks.}
+}
+
+
+@ARTICLE{yang2024quantumresmng,
+  title={Resource Management for Distributed Quantum Computing in Quantum Data Centers}, 
+  author={Yang, Zebo and Tian, Chenliang and and Jain, Raj and Kompella, Ramana and Nejabati, Reza and Hamdi, Mounir and Erbad, Aiman and Shapourian, Hassan},
+  journal={Submitted}, 
   year={2026}
 }
