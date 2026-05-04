@@ -36,8 +36,8 @@ nav_order: 7
 ### Technical Program Committee
 
 - IEEE Quantum Week 2025 (QCE25)
+- IEEE Quantum Week 2026 (QCE26)
 - IEEE CCNC 2026
+- IEEE ICTAI 2026
 
-### Book Proposal Reviewer
 
-- Springer Nature: Quantum Internet of Things (QIoT)
